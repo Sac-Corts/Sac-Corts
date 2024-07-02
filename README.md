@@ -1,4 +1,4 @@
-### Hi there 👋
+### Aspiring developer, learning one step at a time.
 
 <!--
 **Sac-Corts/Sac-Corts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
