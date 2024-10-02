@@ -20,6 +20,9 @@
 
 **LANGUAGES AND TOOLS:**  
 <br/>
-<br/>
-[![My Skills](https://skillicons.dev/icons?i=typescript,js,html,css,tailwind,react,nextjs,nodejs,express,mysql,postgresql,mongodb&perline=3)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    [![My Skills](https://skillicons.dev/icons?i=typescript,js,html,css,tailwind,react,nextjs,nodejs,express,mysql,postgresql,mongodb,git&perline=4)](https://skillicons.dev) 
+  </a>
+</p>
 <br/>
