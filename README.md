@@ -21,5 +21,6 @@
   </a>
 </p>
 
-
+<div align="center">
 <a target="_blank"><img align="center" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+</div>
