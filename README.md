@@ -4,8 +4,8 @@
 
 <p align="justify">
     I’m a junior web developer, currently pursuing a Bachelor's degree in <b>Web Systems Development</b> at the University of Guadalajara.
-    I still have a lot to learn, every day feels like an exciting new adventure. Each challenge fuels my curiosity, and I’m constantly discovering new ways to grow and improve.
-    I’m thrilled to be on this journey, and I can’t wait to see where it takes me!
+    I still have a lot to learn, I’m constantly discovering new ways to grow and improve.
+    I’m glad to be on this way, and I can’t wait to see where it takes me!
 </p>
 
 - I’m currently improving **NextJS.** :wink:
