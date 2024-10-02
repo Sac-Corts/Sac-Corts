@@ -9,4 +9,4 @@
 </p>
 
 - 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **React.** <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-- I am currently working on a **personal project.** <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/> 
+- I’m currently working on a **personal project.** <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="30" height="30"/> 
