@@ -9,7 +9,7 @@
 </p>
 
 - I’m currently learning **React** :heart::heart:. 
-- I’m currently working on a **personal project** <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>.
+- I’m currently working on a **personal project** :eyes::bangbang:. 
 - I love coffee :coffee::sparkling_heart:.
 <br/>
 <br/>
