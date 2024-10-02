@@ -17,9 +17,9 @@
 ## **LANGUAGES AND TOOLS**
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=typescript,js,html,css,sass,tailwind,react,nextjs,nodejs,express,mysql,postgresql,mongodb,git,wordpress&perline=5" />
+      <img src="https://skillicons.dev/icons?i=typescript,js,html,css,sass,tailwind,react,nextjs,nodejs,express,mysql,postgresql,mongodb,git,wordpress&perline=15" />
   </a>
 </p>
 
 
-<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<a target="_blank"><img align="center" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
