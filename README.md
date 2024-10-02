@@ -14,9 +14,9 @@
 
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 
-## LANGUAJES AND TOOLS
+**LANGUAGES AND TOOLS**
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=typescript,js,html,css,tailwind,react,nextjs,nodejs,express,mysql,postgresql,mongodb,git&perline=5" />
+      <img src="https://skillicons.dev/icons?i=sql,typescript,js,html,css,tailwind,react,nextjs,nodejs,express,mysql,postgresql,mongodb,git&perline=5" />
   </a>
 </p>
