@@ -8,7 +8,7 @@
     I’m thrilled to be on this journey, and I can’t wait to see where it takes me!
 </p>
 
-- I’m currently learning **AWS.** [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+- I’m currently improving **NextJS.** :wink:
 - I’m currently working on a **personal project.** :eyes:
 - I love **coffee.** :coffee:
 </br>
