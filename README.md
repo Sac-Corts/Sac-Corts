@@ -21,5 +21,5 @@
 **LANGUAGES AND TOOLS:**  
 <br/>
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nextjs,nodejs,express,mysql,postgresql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,js,html,css,tailwind,react,nextjs,nodejs,express,mysql,postgresql,mongodb&perline=3)](https://skillicons.dev)
 <br/>
