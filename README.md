@@ -8,9 +8,9 @@
     I’m thrilled to be on this journey, and I can’t wait to see where it takes me!
 </p>
 
-- I’m currently learning **React** :heart::heart:. 
-- I’m currently working on a **personal project** :eyes::bangbang:. 
-- I love coffee :coffee::sparkling_heart:.
+- I’m currently learning **React.** :heart::heart: 
+- I’m currently working on a **personal project.** :eyes::bangbang:
+- I love **coffee.** :coffee::sparkling_heart:
 <br/>
 <br/>
 
