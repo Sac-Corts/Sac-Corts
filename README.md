@@ -14,7 +14,7 @@
 </br>
 </br>
 
-## **LANGUAGES AND TOOLS**
+## <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/> **LANGUAGES AND TOOLS**
 <p align="center">
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=typescript,js,html,css,sass,tailwind,react,nextjs,nodejs,express,mysql,postgresql,mongodb,git,wordpress&perline=15" />
