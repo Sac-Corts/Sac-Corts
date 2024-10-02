@@ -8,7 +8,7 @@
     I’m thrilled to be on this journey, and I can’t wait to see where it takes me!
 </p>
 
-- I’m currently learning **React.** :heart::heart: 
+- I’m currently learning **AWS.** :heart::heart: 
 - I’m currently working on a **personal project.** :eyes::bangbang:
 - I love **coffee.** :coffee::sparkling_heart:
 <br/>
@@ -21,5 +21,5 @@
 **LANGUAGES AND TOOLS:**  
 <br/>
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nextjs,nodejs,express,mysql,postgresql,mongodb)](https://skillicons.dev)
 <br/>
