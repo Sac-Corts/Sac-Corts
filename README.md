@@ -8,8 +8,9 @@
     I’m thrilled to be on this journey, and I can’t wait to see where it takes me!
 </p>
 
-- I’m currently learning **React.** <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-- I’m currently working on a **personal project.** <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="30" height="30"/>
+- I’m currently learning **React.** :heart: 
+- I’m currently working on a **personal project.** <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+- I love coffee. :coffee:
 <br/>
 <br/>
 
