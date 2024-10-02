@@ -1,6 +1,6 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Isaac Cortés.</h1>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> ABOUT ME
 
 <p align="justify">
     I’m a junior web developer, currently pursuing a Bachelor's degree in <b>Web Systems Development</b> at the University of Guadalajara.
@@ -12,7 +12,7 @@
 - I’m currently working on a **personal project.** :eyes::bangbang:
 - I love **coffee.** :coffee::sparkling_heart:
 
-**LANGUAGES AND TOOLS**
+## LANGUAGES AND TOOLS
 <p align="center">
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=typescript,js,html,css,sass,tailwind,react,nextjs,nodejs,express,mysql,postgresql,mongodb,git,wordpress&perline=5" />
