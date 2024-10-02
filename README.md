@@ -5,7 +5,7 @@
   
 
 <p align="center">
-    I’m a junior web developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">, currently pursuing a Bachelor's degree in <b>Web Systems Development</b>b> at the University of Guadalajara.
+    I’m a junior web developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">, currently pursuing a Bachelor's degree in <b>Web Systems Development</b> at the University of Guadalajara.
     I still have a lot to learn, every day feels like an exciting new adventure. Each challenge fuels my curiosity, and I’m constantly discovering new ways to grow and improve.
     I’m thrilled to be on this journey, and I can’t wait to see where it takes me!
 </p>
